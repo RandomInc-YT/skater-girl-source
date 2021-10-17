@@ -1,0 +1,50 @@
+{
+	"position": [
+		140,
+		-30
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Skater_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "skater finish",
+			"loop_name": "skater idle"
+		},
+		{
+			"idle_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "skater happy finish",
+			"loop_name": "skater happy"
+		},
+		{
+			"idle_offsets": [
+				-3,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "skater ?",
+			"loop_name": "skater ?"
+		}
+	]
+}

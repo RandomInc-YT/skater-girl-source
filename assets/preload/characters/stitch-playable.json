@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				-169
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				217,
+				6
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				248,
+				-15
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "stitch left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				47
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "stitch up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-233,
+				-299
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "stitch dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-228,
+				-311
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "stitch dead",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Stitch_Playable_Assets",
+	"position": [
+		-10,
+		-100
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		70,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

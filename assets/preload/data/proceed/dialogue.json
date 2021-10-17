@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skater",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skater",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh hey!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skater",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're that kid running around town rapping everyone!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skater",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Name's Boyfriend, right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "skibep two!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skater",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo, since you know how to spit hot fire-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skater",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "You mind rapping with me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skater",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've been wanting to try some songs I made..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skater",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "and a duet would be cool for this one!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Bo pee!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skater",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I knew you'd say yes!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "skater",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aight, I think you'll like this one!"
+		}
+	]
+}

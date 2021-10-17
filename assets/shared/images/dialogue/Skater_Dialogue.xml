@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Skater_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skater ?0000" x="100" y="100" width="440" height="681"/>
+	<SubTexture name="skater ?0001" x="100" y="100" width="440" height="681"/>
+	<SubTexture name="skater ?0002" x="100" y="100" width="440" height="681"/>
+	<SubTexture name="skater ?0003" x="640" y="100" width="440" height="681"/>
+	<SubTexture name="skater ?0004" x="640" y="100" width="440" height="681"/>
+	<SubTexture name="skater ?0005" x="640" y="100" width="440" height="681"/>
+	<SubTexture name="skater ?0006" x="1180" y="100" width="440" height="681"/>
+	<SubTexture name="skater ?0007" x="1180" y="100" width="440" height="681"/>
+	<SubTexture name="skater ?0008" x="1180" y="100" width="440" height="681"/>
+	<SubTexture name="skater happy0000" x="1720" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0001" x="1720" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0002" x="2260" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0003" x="2260" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0004" x="2800" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0005" x="2800" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0006" x="3340" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0007" x="3340" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0008" x="1720" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0009" x="1720" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0010" x="2260" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0011" x="2260" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0012" x="2800" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0013" x="2800" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0014" x="3340" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0015" x="3340" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0016" x="1720" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0017" x="1720" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0018" x="2260" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0019" x="2260" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0020" x="2800" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0021" x="2800" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0022" x="3340" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0023" x="3340" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0024" x="1720" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0025" x="1720" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0026" x="2260" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0027" x="2260" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0028" x="2800" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0029" x="2800" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0030" x="3340" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0031" x="3340" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0032" x="1720" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0033" x="1720" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0034" x="2260" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy0035" x="2260" y="100" width="440" height="682"/>
+	<SubTexture name="skater happy finish0000" x="1720" y="100" width="440" height="682"/>
+	<SubTexture name="skater idle0000" x="100" y="882" width="440" height="681" frameX="0" frameY="-1" frameWidth="440" frameHeight="682"/>
+	<SubTexture name="skater idle0001" x="100" y="882" width="440" height="681" frameX="0" frameY="-1" frameWidth="440" frameHeight="682"/>
+	<SubTexture name="skater idle0002" x="640" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0003" x="640" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0004" x="1180" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0005" x="1180" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0006" x="1720" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0007" x="1720" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0008" x="100" y="882" width="440" height="681" frameX="0" frameY="-1" frameWidth="440" frameHeight="682"/>
+	<SubTexture name="skater idle0009" x="100" y="882" width="440" height="681" frameX="0" frameY="-1" frameWidth="440" frameHeight="682"/>
+	<SubTexture name="skater idle0010" x="640" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0011" x="640" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0012" x="1180" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0013" x="1180" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0014" x="1720" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0015" x="1720" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0016" x="100" y="882" width="440" height="681" frameX="0" frameY="-1" frameWidth="440" frameHeight="682"/>
+	<SubTexture name="skater idle0017" x="100" y="882" width="440" height="681" frameX="0" frameY="-1" frameWidth="440" frameHeight="682"/>
+	<SubTexture name="skater idle0018" x="640" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0019" x="640" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0020" x="1180" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0021" x="1180" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0022" x="1720" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0023" x="1720" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0024" x="100" y="882" width="440" height="681" frameX="0" frameY="-1" frameWidth="440" frameHeight="682"/>
+	<SubTexture name="skater idle0025" x="100" y="882" width="440" height="681" frameX="0" frameY="-1" frameWidth="440" frameHeight="682"/>
+	<SubTexture name="skater idle0026" x="640" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0027" x="640" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0028" x="1180" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0029" x="1180" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0030" x="1720" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0031" x="1720" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0032" x="100" y="882" width="440" height="681" frameX="0" frameY="-1" frameWidth="440" frameHeight="682"/>
+	<SubTexture name="skater idle0033" x="100" y="882" width="440" height="681" frameX="0" frameY="-1" frameWidth="440" frameHeight="682"/>
+	<SubTexture name="skater idle0034" x="640" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle0035" x="640" y="882" width="440" height="682"/>
+	<SubTexture name="skater idle finish0000" x="2260" y="882" width="440" height="681"/>
+</TextureAtlas>

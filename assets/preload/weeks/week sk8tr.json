@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Proceed",
+			"skate",
+			[
+				66,
+				53,
+				215
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Sk8tr Girl",
+	"weekName": "Sk8 Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "skater idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-87
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-80
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "skater right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-116
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Skater_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "skate",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		50,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
